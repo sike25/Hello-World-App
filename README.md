@@ -20,6 +20,8 @@
 frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 <p><a href="https://giphy.com/gifs/o5u8ZFHMa4dS8yU4zs">via GIPHY</a></p>" width=200><br>
 
+https://giphy.com/embed/o5u8ZFHMa4dS8yU4zs
+
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
 - [X] 2. User see's custom background color.
