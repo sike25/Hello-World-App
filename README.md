@@ -6,7 +6,7 @@
     when the user taps buttons displayed.`
 
 ## App WalkThrough
-`TODO:// The display contains four buttons and a text input field.
+`TODO:// The display contains four buttons and a text input field. 
        Clicking the 'Change text color' button changes the colour of the text in the label from light blue to orange.
        Clicking the 'Change background color' button changes the  background colour in the label from purple to white.
        Clicking the 'Change text' button changes the text in the label from "Hello from Sike" to "Android is Awesome!"
